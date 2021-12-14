@@ -1,2 +1,2 @@
-console.log(20 * "tres");
+console.log(typeof("dois" + "tres"));
 
