@@ -3,3 +3,5 @@ function MostrarIdade(idade) {
 }
 
 MostrarIdade(3);
+MostrarIdade(50);
+MostrarIdade(31);
