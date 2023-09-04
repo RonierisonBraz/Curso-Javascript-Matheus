@@ -12,3 +12,4 @@ console.log(produtos.split(";"));
 
 // split sever pra dividi uma string a parti de um determinado caracteres
 
+
